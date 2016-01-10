@@ -11,9 +11,14 @@ My main interests currently include programming languages (with a strong incline
 At some point I plan on migrating my wordpress blog over to this site. But for now, feel free to check it out [here](https://symfun.wordpress.com). It touches on various programming concepts etc that I find interesting and want to practice explaining.
 
 ### Where in the world is Jose?
-I'm back in NYC for my final year of Masters program. I was in CA over the summer working as an
-intern as part of the Data Science team at Cloudera. 
+I'm back in NYC for my final semester of Masters program. Last semester I spent my time
+working further on AQuery (under the supervision of Dr. Dennis Shasha), grading for Dr. Kris and
+Eva Rose's Compiler Construction class, and taking classes (Statistical NLP, Predictive Analytics, and
+Principles of Software Security).
 
-For the current semester, my time will be divided between classes (Statistical Natural Language Processing, Predictive Analytics, and Principles of Software Security), grading for Dr. Kris and Dr. Eva Rose's [Compiler Construction class](http://cs.nyu.edu/courses/fall15/CSCI-GA.2130-001/) (a phenomenally interesting class that I encourage all students to take), and further working on my Aquery research project.
+This upcoming semester I will be dividing my time between further AQuery development (hopefully some
+solid documentation!), grading for Drs. Rose' Compiler class, and taking a course titled [Rigorous Software Development](http://cs.nyu.edu/wies/teaching/rsd-sp16/). The latter is my attempt to continue exploring the world of program security and
+verification, which I was introduced to by Dr. Patrick Cousot's class (Principles of Software Security) and which I
+found incredibly interesting.
 
 I'm always open to interesting opportunities and exploring new fields, so if you think you have something where my skills might line up, definitely feel free to drop me a line.
