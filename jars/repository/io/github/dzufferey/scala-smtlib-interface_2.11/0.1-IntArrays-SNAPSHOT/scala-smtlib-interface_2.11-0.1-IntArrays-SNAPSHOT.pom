@@ -5,7 +5,7 @@
     <artifactId>scala-smtlib-interface_2.11</artifactId>
     <packaging>jar</packaging>
     <description>scala-smtlib-interface</description>
-    <version>0.1-SNAPSHOT-IntArrays</version>
+    <version>0.1-IntArrays-SNAPSHOT</version>
     <name>scala-smtlib-interface</name>
     <organization>
         <name>io.github.dzufferey</name>
