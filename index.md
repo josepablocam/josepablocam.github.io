@@ -4,7 +4,7 @@ title: Jose Cambronero
 ---
 
 Hi! My name is Jose Cambronero. I'm a first year Computer Science PhD
-student at MIT. Before this, completed my MS in Computer Science at NYU,
+student at MIT, advised by Martin Rinard. Before this, completed my MS in Computer Science at NYU,
 where I worked with Dennis Shasha on implementing AQuery. In a previous
 professional life, I worked for Morgan Stanley as part of the
 housing and mortgage research group. I graduated with a BA in Economics
