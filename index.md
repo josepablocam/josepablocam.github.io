@@ -21,7 +21,7 @@ At some point I plan on migrating my wordpress blog over to this site. But for n
 
 ### Where in the world is Jose?
 Back at MIT for the 2017 Spring semester. I'll also be staying here for research over the summer.
-I just finished up my MS program :). 
+If you're in the area, come say hi.
 
 
 ----------
