@@ -20,23 +20,5 @@
 </description>
     </item>
     
-    <item>
-      <title>Hugo</title>
-      <link>http://josecambronero.com/tags/hugo/</link>
-      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
-      
-      <guid>http://josecambronero.com/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jekyll</title>
-      <link>http://josecambronero.com/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://josecambronero.com/tags/jekyll/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
