@@ -1,6 +1,0 @@
-name: Jose Cambronero
-markdown: kramdown
-encoding: utf-8
-
-kramdown:
-    smart_quotes:  ["apos", "apos", "ldquo", "rdquo"]
