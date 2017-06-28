@@ -66,7 +66,7 @@ These interests include directions such as:
   Many tasks related to data analysis are tedious, repetitive, and error-prone. We should look for opportunities to remove human interaction from these
   and allow experts to focus on the core of their problems.
 
-I've also spent some time working on an assortment of other projects, such
+I've also worked on an assortment of other projects, such
 as using iOS data to customize image compression for users with color vision
 deficiencies, and performing large-scale color vision analysis across different
 countries.
