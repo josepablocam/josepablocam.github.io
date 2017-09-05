@@ -1,57 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>José Cambronero</title>
+    <title>José Cambronero on José Cambronero</title>
     <link>http://josecambronero.com/</link>
-    <description>Recent content on José Cambronero</description>
+    <description>Recent content in José Cambronero on José Cambronero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Jose Cambronero</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://josecambronero.com/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title></title>
-      <link>http://josecambronero.com/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://josecambronero.com/home/about/</guid>
-      <description>About me I&amp;rsquo;m a first year Computer Science Ph.D. student at MIT, advised by Martin Rinard.
-Before coming here, I completed my M.S. in Computer Science at NYU, where I worked with Dennis Shasha on implementing AQuery, an optimizing compiler for order-related database queries. Before that, I worked for Morgan Stanley as part of the housing and mortgage research group. I graduated with a B.A. in Economics from University of Pennsylvania in 2011.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>http://josecambronero.com/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://josecambronero.com/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Talks</title>
-      <link>http://josecambronero.com/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://josecambronero.com/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching, Academic Work Experience and Service</title>
-      <link>http://josecambronero.com/home/teaching_and_service/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://josecambronero.com/home/teaching_and_service/</guid>
-      <description>I&amp;rsquo;ve had experience as a teaching assistant for programming languages and grader for compiler construction.
- Teaching Assistant: Graduate Course in Programming Languages. Fall 2014, NYU Grader: Graduate Course in Compiler Construction. Spring 2015, NYU Grader: Graduate Course in Compiler Construction. Fall 2015, NYU Grader: Graduate Course in Compiler Construction. Spring 2016, NYU  I also like to be involved in activities around the student community at MIT. Some examples of this are</description>
-    </item>
-    
-    <item>
-      <title>VLDB 2017</title>
+      <title>VLDB: Query Optimization for Dynamic Imputation</title>
       <link>http://josecambronero.com/talk/vldb-2017/</link>
       <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
       
@@ -75,15 +35,6 @@ Before coming here, I completed my M.S. in Computer Science at NYU, where I work
       
       <guid>http://josecambronero.com/talk/kx-meetup-2016/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>CV</title>
-      <link>http://josecambronero.com/home/cv/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://josecambronero.com/home/cv/</guid>
-      <description>can be found here</description>
     </item>
     
   </channel>
