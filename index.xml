@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>José Cambronero on José Cambronero</title>
+    <link>http://josecambronero.com/</link>
+    <description>Recent content in José Cambronero on José Cambronero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Jose Cambronero</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>VLDB: Query Optimization for Dynamic Imputation</title>
+      <link>http://josecambronero.com/talk/vldb-2017/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://josecambronero.com/talk/vldb-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Query Optimization for Dynamic Imputation</title>
+      <link>http://josecambronero.com/publication/vldb2017/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://josecambronero.com/publication/vldb2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kdb&#43; User Meetup September 2016</title>
+      <link>http://josecambronero.com/talk/kx-meetup-2016/</link>
+      <pubDate>Tue, 20 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://josecambronero.com/talk/kx-meetup-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
