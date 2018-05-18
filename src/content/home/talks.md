@@ -9,7 +9,7 @@ subtitle = "Talks I've given recently (or ever)"
 widget = "talks"
 
 # Order that this section will appear in.
-weight = 30
+weight = 4
 
 # Number of talks to list.
 count = 10
@@ -18,4 +18,3 @@ count = 10
 detailed_list = false
 
 +++
-

@@ -32,30 +32,30 @@ weight = 1
   course = "B.A. in Economics"
   institution = "University of Pennsylvania"
   year = 2011
- 
+
 +++
 
 # About me
 
 I'm a second year Computer Science Ph.D.
-student at MIT, advised by Martin Rinard. 
+student at MIT, advised by Martin Rinard.
 
 Before coming here, I completed my M.S. in Computer Science at NYU,
 where I worked with Dennis Shasha on implementing AQuery, an optimizing
 compiler for order-related database queries. Before that, I worked for Morgan Stanley as part of the
 housing and mortgage research group. I graduated with a B.A. in Economics
-from University of Pennsylvania in 2011.
+from University of Pennsylvania in 2011. I'm originally from San José, Costa Rica.
 
 My main research interests center around programming languages,
 databases, and data science. I'm particularly interested in applying
 programming language techniques to improve the way we do work in the latter
-two areas. 
+two areas.
 
 These interests include directions such as:
 
 - **optimization**: ***how can we optimize data analysis-related programming tasks and systems?*** I particularly like the idea of optimizations that
   stem from a key insight in the way we use and think about data, rather than
-  necessarily focusing on optimization from a systems-perspective. Our 
+  necessarily focusing on optimization from a systems-perspective. Our
   recent work on [working with missing data](publication/vldb2017/) is one such example.
 - **user experience/accesibility**: ***how can we make programming for data analysis easier and accessible to non-experts?*** An increasingly large
   portion of the data-science community have domain expertise in areas
