@@ -15,6 +15,4 @@ weight = 2
 
 +++
 
-- I'll be spending the summer as an intern at Facebook's Boston office, working
-at the intersection of programming languages, software engineering,
-and machine learning.
+- I spent the summer working on machine learning and software engineering as an intern at Facebook's Boston office. I will be back at MIT for the fall semester.
