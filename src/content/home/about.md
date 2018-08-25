@@ -37,7 +37,7 @@ weight = 1
 
 # About me
 
-I'm a second year Computer Science Ph.D.
+I'm a third year Computer Science Ph.D.
 student at MIT, advised by Martin Rinard.
 
 Before coming here, I completed my M.S. in Computer Science at NYU,
