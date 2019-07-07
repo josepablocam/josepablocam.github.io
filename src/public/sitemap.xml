@@ -73,17 +73,6 @@
   </url>
   
   <url>
-    <loc>http://josecambronero.com/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://josecambronero.com/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://josecambronero.com/talk/vldb-2017/</loc>
     <lastmod>2017-08-30T00:00:00+00:00</lastmod>
   </url>
