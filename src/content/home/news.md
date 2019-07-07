@@ -15,4 +15,4 @@ weight = 2
 
 +++
 
-- I spent the summer working on machine learning and software engineering as an intern at Facebook's Boston office. I will be back at MIT for the fall semester.
+- I will be spending the summer of 2019 at MIT working on my research.
