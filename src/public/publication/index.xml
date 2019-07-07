@@ -4,18 +4,28 @@
     <title>Publications on José Cambronero</title>
     <link>http://josecambronero.com/publication/</link>
     <description>Recent content in Publications on José Cambronero</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Jose Cambronero</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://josecambronero.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>When Deep Learning Met Code Search</title>
+      <link>http://josecambronero.com/publication/fse-2019/fse2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://josecambronero.com/publication/fse-2019/fse2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Query Optimization for Dynamic Imputation</title>
-      <link>http://josecambronero.com/publication/vldb2017/</link>
+      <link>http://josecambronero.com/publication/vldb-2017/vldb2017/</link>
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://josecambronero.com/publication/vldb2017/</guid>
+      <guid>http://josecambronero.com/publication/vldb-2017/vldb2017/</guid>
       <description></description>
     </item>
     
