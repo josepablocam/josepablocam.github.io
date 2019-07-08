@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on José Cambronero</title>
-    <link>http://josecambronero.com/talk/</link>
+    <link>https://josecambronero.com/talk/</link>
     <description>Recent content in Talks on José Cambronero</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="http://josecambronero.com/talk/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://josecambronero.com/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>VLDB: Query Optimization for Dynamic Imputation</title>
-      <link>http://josecambronero.com/talk/vldb-2017/</link>
+      <link>https://josecambronero.com/talk/vldb-2017/</link>
       <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://josecambronero.com/talk/vldb-2017/</guid>
+      <guid>https://josecambronero.com/talk/vldb-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kdb&#43; User Meetup September 2016</title>
-      <link>http://josecambronero.com/talk/kx-meetup-2016/</link>
+      <link>https://josecambronero.com/talk/kx-meetup-2016/</link>
       <pubDate>Tue, 20 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://josecambronero.com/talk/kx-meetup-2016/</guid>
+      <guid>https://josecambronero.com/talk/kx-meetup-2016/</guid>
       <description></description>
     </item>
     
