@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elena Glassman on José Cambronero</title>
+    <link>https://josecambronero.com/authors/elena-glassman/</link>
+    <description>Recent content in Elena Glassman on José Cambronero</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://josecambronero.com/authors/elena-glassman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Characterizing Developer Use of Automatically Generated Patches</title>
+      <link>https://josecambronero.com/publication/vlhcc-2019/vlhcc2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://josecambronero.com/publication/vlhcc-2019/vlhcc2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

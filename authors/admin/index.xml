@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>José Cambronero</title>
+    <link>https://josecambronero.com/authors/admin/</link>
+    <description>Recent content on José Cambronero</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="https://josecambronero.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://josecambronero.com/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://josecambronero.com/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a third year Computer Science Ph.D.
+student at MIT, advised by Martin Rinard.&lt;/p&gt;
+
+&lt;p&gt;Before coming here, I completed my M.S. in Computer Science at NYU,
+where I worked with Dennis Shasha on implementing AQuery, an optimizing
+compiler for order-related database queries. Before that, I worked for Morgan Stanley as part of the
+housing and mortgage research group. I graduated with a B.A. in Economics
+from University of Pennsylvania in 2011. I&amp;rsquo;m originally from San José, Costa Rica.&lt;/p&gt;
+
+&lt;p&gt;My main research interests center around programming languages,
+databases, and data science. I&amp;rsquo;m particularly interested in applying
+programming language techniques to improve the way we do work in the latter
+two areas.&lt;/p&gt;
+
+&lt;p&gt;These interests include directions such as:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;optimization&lt;/strong&gt;: &lt;strong&gt;&lt;em&gt;how can we optimize data analysis-related programming tasks and systems?&lt;/em&gt;&lt;/strong&gt; I particularly like the idea of optimizations that
+stem from a key insight in the way we use and think about data, rather than
+necessarily focusing on optimization from a systems-perspective. Our
+recent work on &lt;a href=&#34;publication/vldb2017/&#34; target=&#34;_blank&#34;&gt;working with missing data&lt;/a&gt; is one such example.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;user experience/accessibility&lt;/strong&gt;: &lt;strong&gt;&lt;em&gt;how can we make programming for data analysis easier and accessible to non-experts?&lt;/em&gt;&lt;/strong&gt; An increasingly large
+portion of the data-science community have domain expertise in areas
+outside of computer science and programming. I believe we are responsible
+for producing and improving tools that allow them to be productive without
+getting mired in details they may not be interested in.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;automation&lt;/strong&gt;: &lt;strong&gt;&lt;em&gt;how can we learn useful patterns in programming for data analysis and automate them to produce more robust programs/applications?&lt;/em&gt;&lt;/strong&gt;
+Many tasks related to data analysis are tedious, repetitive, and error-prone. We should look for opportunities to remove human interaction from these
+and allow experts to focus on the core of their problems.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I&amp;rsquo;ve also worked on an assortment of other projects, such
+as using iOS data to customize image compression for users with color vision
+deficiencies, and performing large-scale color vision analysis across different
+countries.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
