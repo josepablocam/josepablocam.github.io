@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Satish Chandra | José Cambronero</title>
+    <link>https://josecambronero.com/authors/satish-chandra/</link>
+      <atom:link href="https://josecambronero.com/authors/satish-chandra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Satish Chandra</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://josecambronero.com/img/icon-192.png</url>
+      <title>Satish Chandra</title>
+      <link>https://josecambronero.com/authors/satish-chandra/</link>
+    </image>
+    
+    <item>
+      <title>When Deep Learning Met Code Search</title>
+      <link>https://josecambronero.com/publication/fse-2019/fse2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://josecambronero.com/publication/fse-2019/fse2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
