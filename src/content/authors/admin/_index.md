@@ -67,36 +67,34 @@ email: ""
 #- Visitors
 ---
 
-I'm a third year Computer Science Ph.D.
+I'm a fourth year Computer Science Ph.D.
 student at MIT, advised by Martin Rinard.
 
 Before coming here, I completed my M.S. in Computer Science at NYU,
 where I worked with Dennis Shasha on implementing AQuery, an optimizing
-compiler for order-related database queries. Before that, I worked for Morgan Stanley as part of the
-housing and mortgage research group. I graduated with a B.A. in Economics
+compiler for order-related database queries. Before that, I worked for Morgan Stanley as part of the housing and mortgage research group. I graduated with a B.A. in Economics
 from University of Pennsylvania in 2011. I'm originally from San José, Costa Rica.
 
-My main research interests center around programming languages,
-databases, and data science. I'm particularly interested in applying
-programming language techniques to improve the way we do work in the latter
-two areas.
+I am currently working at the intersection of software engineering and machine
+learning, and am interested in exploring applied machine learning research.
+Recently I have spent most of my time working on applications of machine learning
+to healthcare, particularly using Electronic Health Records for
+predictive diagnoses. This is joint work with researchers at
+Beth Israel Deaconess Medical Center.
 
-These interests include directions such as:
+I have researched and published work on:
 
-- **optimization**: ***how can we optimize data analysis-related programming tasks and systems?*** I particularly like the idea of optimizations that
-  stem from a key insight in the way we use and think about data, rather than
-  necessarily focusing on optimization from a systems-perspective. Our
-  recent work on [working with missing data](publication/vldb2017/) is one such example.
-- **user experience/accessibility**: ***how can we make programming for data analysis easier and accessible to non-experts?*** An increasingly large
-  portion of the data-science community have domain expertise in areas
-  outside of computer science and programming. I believe we are responsible
-  for producing and improving tools that allow them to be productive without
-  getting mired in details they may not be interested in.
-- **automation**: ***how can we learn useful patterns in programming for data analysis and automate them to produce more robust programs/applications?***
-  Many tasks related to data analysis are tedious, repetitive, and error-prone. We should look for opportunities to remove human interaction from these
-  and allow experts to focus on the core of their problems.
+* [optimizing database queries to perform dynamic imputation](publication/vldb2017/)
+* [using deep learning to improve code search using natural language](publication/fse2019/)
+* [applying active learning to infer and regenerate software](publication/onward2019/)
+* [studying how developers use automatically generated bug patches](publication/vlhcc2019)
 
 I've also worked on an assortment of other projects, such
 as using iOS data to customize image compression for users with color vision
 deficiencies, and performing large-scale color vision analysis across different
 countries.
+
+Recently, I interned at Facebook (Summer 2018) with the BigCode team, and
+spent Fall 2018 working part-time as a researcher ("Research Collaborator")
+with the same team. I am actively looking for summer internship opportunities
+for Summer 2020.
