@@ -77,9 +77,10 @@ from University of Pennsylvania in 2011. I'm originally from San José, Costa Ri
 
 I am currently working at the intersection of software engineering and machine
 learning, and am interested in exploring applied machine learning research.
-Recently I have spent most of my time working on applications of machine learning
-to healthcare, particularly using Electronic Health Records for
-predictive diagnoses. This is joint work with researchers at
+Recently, I have spent most of my time working on applications of machine learning
+to healthcare, in particular using Electronic Health Records
+for early prediction of pancreatic cancer diagnoses.
+This is joint work with researchers at
 Beth Israel Deaconess Medical Center.
 
 I have researched and published work on:
