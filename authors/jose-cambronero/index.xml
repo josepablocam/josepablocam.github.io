@@ -5,12 +5,20 @@
     <link>https://josecambronero.com/authors/jose-cambronero/</link>
       <atom:link href="https://josecambronero.com/authors/jose-cambronero/index.xml" rel="self" type="application/rss+xml" />
     <description>**José Cambronero**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://josecambronero.com/img/icon-192.png</url>
       <title>**José Cambronero**</title>
       <link>https://josecambronero.com/authors/jose-cambronero/</link>
     </image>
+    
+    <item>
+      <title>AL: Autogenerating Supervised Learning Programs</title>
+      <link>https://josecambronero.com/publication/oopsla-2019/oopsla2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://josecambronero.com/publication/oopsla-2019/oopsla2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Active Learning for Software Engineering</title>

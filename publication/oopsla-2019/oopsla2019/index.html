@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="PhD student">
+  <meta name="description" content="We present AL, a novel automated machine learning system that learns to generate new supervised learning pipelines from an existing corpus of supervised learning programs. In contrast to existing automated machine learning tools, which typically implement a search over manually selected machine learning functions and classes, AL learns to identify the relevant classes in an API by analyzing dynamic program traces that use the target machine learning library. AL constructs a conditional probability model from these traces to estimate the likelihood of the generated supervised learning pipelines and uses this model to guide the search to generate pipelines for new datasets. Our evaluation shows that AL can produce successful pipelines for datasets that previous systems fail to process and produces pipelines with comparable predictive performance for datasets that previous systems process successfully.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://josecambronero.com/authors/">
+  <link rel="alternate" hreflang="en-us" href="https://josecambronero.com/publication/oopsla-2019/oopsla2019/">
 
   
 
@@ -91,14 +91,12 @@
   
 
   
-  <link rel="alternate" href="/authors/index.xml" type="application/rss+xml" title="José Cambronero">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://josecambronero.com/authors/">
+  <link rel="canonical" href="https://josecambronero.com/publication/oopsla-2019/oopsla2019/">
 
   
   
@@ -114,12 +112,15 @@
   <meta property="twitter:creator" content="@josepablocam">
   
   <meta property="og:site_name" content="José Cambronero">
-  <meta property="og:url" content="https://josecambronero.com/authors/">
-  <meta property="og:title" content="Authors | José Cambronero">
-  <meta property="og:description" content="PhD student"><meta property="og:image" content="https://josecambronero.com/img/icon-192.png">
+  <meta property="og:url" content="https://josecambronero.com/publication/oopsla-2019/oopsla2019/">
+  <meta property="og:title" content="AL: Autogenerating Supervised Learning Programs | José Cambronero">
+  <meta property="og:description" content="We present AL, a novel automated machine learning system that learns to generate new supervised learning pipelines from an existing corpus of supervised learning programs. In contrast to existing automated machine learning tools, which typically implement a search over manually selected machine learning functions and classes, AL learns to identify the relevant classes in an API by analyzing dynamic program traces that use the target machine learning library. AL constructs a conditional probability model from these traces to estimate the likelihood of the generated supervised learning pipelines and uses this model to guide the search to generate pipelines for new datasets. Our evaluation shows that AL can produce successful pipelines for datasets that previous systems fail to process and produces pipelines with comparable predictive performance for datasets that previous systems process successfully."><meta property="og:image" content="https://josecambronero.com/img/icon-192.png">
   <meta property="twitter:image" content="https://josecambronero.com/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2019-09-01T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2019-09-01T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2019-09-01T00:00:00&#43;00:00">
   
 
   
@@ -131,7 +132,7 @@
 
 
 
-  <title>Authors | José Cambronero</title>
+  <title>AL: Autogenerating Supervised Learning Programs | José Cambronero</title>
 
 </head>
 
@@ -332,6 +333,106 @@
 </nav>
 
 
+  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">AL: Autogenerating Supervised Learning Programs</h1>
+
+  
+
+  
+    
+
+
+
+<meta content="2019-09-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2019-09-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jose-cambronero/"><strong>José Cambronero</strong></a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/martin-rinard/">Martin Rinard</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>September 2019</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
   
 
 
@@ -341,78 +442,142 @@
 
 
 
-
-
-
-
-  
-
-  
-  
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Authors</h1>
 
-  
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="/pdf/oopsla-2019.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">We present AL, a novel automated machine learning system that learns to generate new supervised learning pipelines from an existing corpus of supervised learning programs. In contrast to existing automated machine learning tools, which typically implement a search over manually selected machine learning functions and classes, AL learns to identify the relevant classes in an API by analyzing dynamic program traces that use the target machine learning library. AL constructs a conditional probability model from these traces to estimate the likelihood of the generated supervised learning pipelines and uses this model to guide the search to generate pipelines for new datasets. Our evaluation shows that AL can produce successful pipelines for datasets that previous systems fail to process and produces pipelines with comparable predictive performance for datasets that previous systems process successfully.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">To Appear <em>SPLASH OOPSLA 2019</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+    
+
+
+
+
+
+
+
+
+  
+  
+    
+  
   
 
-  <ul>
-    
-    
-      
-      <li><a href="https://josecambronero.com/authors/jiasi-shen-1/">Jiasi Shen (1)</a></li>
-    
-      
-      <li><a href="https://josecambronero.com/authors/jurgen-cito-1/">Jürgen Cito (1)</a></li>
-    
-      
-      <li><a href="https://josecambronero.com/authors/koushik-sen/">Koushik Sen</a></li>
-    
-      
-      <li><a href="https://josecambronero.com/authors/satish-chandra/">Satish Chandra</a></li>
-    
-      
-      <li><a href="https://josecambronero.com/authors/seohyun-kim/">Seohyun Kim</a></li>
-    
-      
-      <li><a href="https://josecambronero.com/authors/john-f.-feser-1/">John F. Feser (1)</a></li>
-    
-      
-      <li><a href="https://josecambronero.com/authors/micah-j.-smith-1/">Micah J. Smith (1)</a></li>
-    
-      
-      <li><a href="https://josecambronero.com/authors/samuel-madden/">Samuel Madden</a></li>
-    
-      
-      <li><a href="https://josecambronero.com/authors/admin/">José Cambronero</a></li>
-    
-  </ul>
+
+
+
 
   
-<nav>
-  <ul class="pagination justify-content-center">
+  
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
     
-    <li class="page-item"><a class="page-link" href="/authors/">&laquo;</a></li>
-    
-    
-  </ul>
-</nav>
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/jose-cambronero/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+    </div>
+  </div>
 
 
+
+
+    
+
+
+  </div>
 </div>
 
+
+
       
 
     
+    
+    
+    <script src="/js/mathjax-config.js"></script>
     
 
     
@@ -434,6 +599,8 @@
       
 
       
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
       
     
 
