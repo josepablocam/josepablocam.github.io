@@ -85,9 +85,11 @@ Beth Israel Deaconess Medical Center.
 I have researched and published work on:
 
 * [optimizing database queries to perform dynamic imputation](publication/vldb-2017/vldb2017)
+* [studying how developers use automatically generated bug patches](publication/vlhcc-2019/vlhcc2019)
 * [using deep learning to improve code search using natural language](publication/fse-2019/fse2019)
 * [applying active learning to infer and regenerate software](publication/onward-2019/onward2019)
-* [studying how developers use automatically generated bug patches](publication/vlhcc-2019/vlhcc2019)
+* [using dynamic program analysis for automated machine learning](publication/oopsla-2019/oopsla2019)
+
 
 I've also worked on an assortment of other projects, such
 as using iOS data to customize image compression for users with color vision
