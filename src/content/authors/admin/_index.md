@@ -99,5 +99,5 @@ countries.
 
 Recently, I interned at Facebook (Summer 2018) with the BigCode team, and
 spent Fall 2018 working part-time as a researcher ("Research Collaborator")
-with the same team. I am actively looking for summer internship opportunities
-for Summer 2020.
+with the same team. I'll be joining Facebook's Infrastructure for AI team 
+for the 2020 Summer as an intern.
