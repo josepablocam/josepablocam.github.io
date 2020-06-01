@@ -18,11 +18,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include programming languages, databases, and machine learning.
+bio: My research interests include programming languages/software engineering, databases, and machine learning.
 
 interests:
-- Applied machine learning
-- Programming languages and software engineering
+- Programming languages/software engineering + machine learning
 - Healthcare + machine learning
 
 education:
@@ -75,13 +74,14 @@ where I worked with Dennis Shasha on implementing AQuery, an optimizing
 compiler for order-related database queries. Before that, I worked for Morgan Stanley as part of the housing and mortgage research group. I graduated with a B.A. in Economics
 from University of Pennsylvania in 2011. I'm originally from San José, Costa Rica.
 
-I am currently working at the intersection of software engineering and machine
-learning, and am interested in exploring applied machine learning research.
-Recently, I have spent most of my time working on applications of machine learning
-to healthcare, in particular using Electronic Health Records
-for early prediction of pancreatic cancer diagnoses.
-This is joint work with researchers at
-Beth Israel Deaconess Medical Center.
+My research interests are focused on the
+intersection of software engineering and machine learning. I'm particularly
+interested in learning from code corpora and from existing search procedures.
+
+Recently, I've spent most of my time on two projects: AutoML
+that exploits information found in code corpora, and applying ML to
+Electronic Health Records for early prediction of pancreatic cancer
+(jointly with physicians at BIDMC).
 
 I have researched and published work on:
 
@@ -89,7 +89,8 @@ I have researched and published work on:
 * [studying how developers use automatically generated bug patches](publication/vlhcc-2019/vlhcc2019)
 * [using deep learning to improve code search using natural language](publication/fse-2019/fse2019)
 * [applying active learning to infer and regenerate software](publication/onward-2019/onward2019)
-* [using dynamic program analysis for automated machine learning](publication/oopsla-2019/oopsla2019)
+* [using dynamic program analysis for automated machine learning (AutoML)](publication/oopsla-2019/oopsla2019)
+* [generating AutoML search spaces using API docs and code corpora](publication/fse-2020/fse2020)
 
 
 I've also worked on an assortment of other projects, such
@@ -97,7 +98,5 @@ as using iOS data to customize image compression for users with color vision
 deficiencies, and performing large-scale color vision analysis across different
 countries.
 
-Recently, I interned at Facebook (Summer 2018) with the BigCode team, and
-spent Fall 2018 working part-time as a researcher ("Research Collaborator")
-with the same team. I'll be joining Facebook's AI Infrastructure team
-as an intern during summer 2020.
+During the summer of 2020, I'll be a research intern in Facebook
+AI Research's SysML team.
