@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | José Cambronero</title>
+    <link>https://josecambronero.com/publication/</link>
+      <atom:link href="https://josecambronero.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://josecambronero.com/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>https://josecambronero.com/publication/</link>
+    </image>
+    
+    <item>
+      <title>AMS: Generating AutoML search spaces from weak specifications</title>
+      <link>https://josecambronero.com/publication/fse-2020/fse2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://josecambronero.com/publication/fse-2020/fse2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AL: Autogenerating Supervised Learning Programs</title>
+      <link>https://josecambronero.com/publication/oopsla-2019/oopsla2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://josecambronero.com/publication/oopsla-2019/oopsla2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Learning for Software Engineering</title>
+      <link>https://josecambronero.com/publication/onward-2019/onward2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://josecambronero.com/publication/onward-2019/onward2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing Developer Use of Automatically Generated Patches</title>
+      <link>https://josecambronero.com/publication/vlhcc-2019/vlhcc2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://josecambronero.com/publication/vlhcc-2019/vlhcc2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Deep Learning Met Code Search</title>
+      <link>https://josecambronero.com/publication/fse-2019/fse2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://josecambronero.com/publication/fse-2019/fse2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Query Optimization for Dynamic Imputation</title>
+      <link>https://josecambronero.com/publication/vldb-2017/vldb2017/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://josecambronero.com/publication/vldb-2017/vldb2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
