@@ -98,5 +98,7 @@ as using iOS data to customize image compression for users with color vision
 deficiencies, and performing large-scale color vision analysis across different
 countries.
 
-During the summer of 2020, I'll be a research intern in Facebook
-AI Research's SysML team.
+I spent the summer of 2020 as an intern with the SysML team at Facebook
+AI Research. Prior to that, I spent the summer of 2018 (as an intern)
+and the fall of 2018 (as a part-time research collaborator) with the
+Probability team at Facebook.
