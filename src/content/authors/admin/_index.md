@@ -66,13 +66,8 @@ email: ""
 #- Visitors
 ---
 
-I'm a fourth year Computer Science Ph.D.
+I'm a fifth year Computer Science Ph.D.
 student at MIT, advised by Martin Rinard.
-
-Before coming here, I completed my M.S. in Computer Science at NYU,
-where I worked with Dennis Shasha on implementing AQuery, an optimizing
-compiler for order-related database queries. Before that, I worked for Morgan Stanley as part of the housing and mortgage research group. I graduated with a B.A. in Economics
-from University of Pennsylvania in 2011. I'm originally from San José, Costa Rica.
 
 My research interests are focused on the
 intersection of software engineering and machine learning. I'm particularly
@@ -83,22 +78,28 @@ that exploits information found in code corpora, and applying ML to
 Electronic Health Records for early prediction of pancreatic cancer
 (jointly with physicians at BIDMC).
 
-I have researched and published work on:
+The results of my thesis research so far are presented in:
+
+* [using dynamic program analysis for automated machine learning (AutoML)](publication/oopsla-2019/oopsla2019)
+* [generating AutoML search spaces using API docs and code corpora](publication/fse-2020/fse2020)
+
+
+I have also researched and published work on:
 
 * [optimizing database queries to perform dynamic imputation](publication/vldb-2017/vldb2017)
 * [studying how developers use automatically generated bug patches](publication/vlhcc-2019/vlhcc2019)
 * [using deep learning to improve code search using natural language](publication/fse-2019/fse2019)
 * [applying active learning to infer and regenerate software](publication/onward-2019/onward2019)
-* [using dynamic program analysis for automated machine learning (AutoML)](publication/oopsla-2019/oopsla2019)
-* [generating AutoML search spaces using API docs and code corpora](publication/fse-2020/fse2020)
 
-
-I've also worked on an assortment of other projects, such
-as using iOS data to customize image compression for users with color vision
-deficiencies, and performing large-scale color vision analysis across different
-countries.
 
 I spent the summer of 2020 as an intern with the SysML team at Facebook
 AI Research. Prior to that, I spent the summer of 2018 (as an intern)
 and the fall of 2018 (as a part-time research collaborator) with the
 Probability team at Facebook.
+
+Before coming to MIT, I completed my M.S. in Computer Science at NYU,
+where I worked with Dennis Shasha on implementing AQuery, an optimizing
+compiler for order-related database queries. Before that, I worked for Morgan Stanley as part of the housing and mortgage research group. I graduated with a B.A. in Economics
+from University of Pennsylvania in 2011. I'm originally from San José, Costa Rica.
+
+

@@ -169,13 +169,8 @@
       <link>https://josecambronero.com/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://josecambronero.com/authors/admin/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a fourth year Computer Science Ph.D.
+      <description>&lt;p&gt;I&amp;rsquo;m a fifth year Computer Science Ph.D.
 student at MIT, advised by Martin Rinard.&lt;/p&gt;
-
-&lt;p&gt;Before coming here, I completed my M.S. in Computer Science at NYU,
-where I worked with Dennis Shasha on implementing AQuery, an optimizing
-compiler for order-related database queries. Before that, I worked for Morgan Stanley as part of the housing and mortgage research group. I graduated with a B.A. in Economics
-from University of Pennsylvania in 2011. I&amp;rsquo;m originally from San José, Costa Rica.&lt;/p&gt;
 
 &lt;p&gt;My research interests are focused on the
 intersection of software engineering and machine learning. I&amp;rsquo;m particularly
@@ -186,26 +181,31 @@ that exploits information found in code corpora, and applying ML to
 Electronic Health Records for early prediction of pancreatic cancer
 (jointly with physicians at BIDMC).&lt;/p&gt;
 
-&lt;p&gt;I have researched and published work on:&lt;/p&gt;
+&lt;p&gt;The results of my thesis research so far are presented in:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;publication/oopsla-2019/oopsla2019&#34; target=&#34;_blank&#34;&gt;using dynamic program analysis for automated machine learning (AutoML)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;publication/fse-2020/fse2020&#34; target=&#34;_blank&#34;&gt;generating AutoML search spaces using API docs and code corpora&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I have also researched and published work on:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;publication/vldb-2017/vldb2017&#34; target=&#34;_blank&#34;&gt;optimizing database queries to perform dynamic imputation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;publication/vlhcc-2019/vlhcc2019&#34; target=&#34;_blank&#34;&gt;studying how developers use automatically generated bug patches&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;publication/fse-2019/fse2019&#34; target=&#34;_blank&#34;&gt;using deep learning to improve code search using natural language&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;publication/onward-2019/onward2019&#34; target=&#34;_blank&#34;&gt;applying active learning to infer and regenerate software&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;publication/oopsla-2019/oopsla2019&#34; target=&#34;_blank&#34;&gt;using dynamic program analysis for automated machine learning (AutoML)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;publication/fse-2020/fse2020&#34; target=&#34;_blank&#34;&gt;generating AutoML search spaces using API docs and code corpora&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;I&amp;rsquo;ve also worked on an assortment of other projects, such
-as using iOS data to customize image compression for users with color vision
-deficiencies, and performing large-scale color vision analysis across different
-countries.&lt;/p&gt;
 
 &lt;p&gt;I spent the summer of 2020 as an intern with the SysML team at Facebook
 AI Research. Prior to that, I spent the summer of 2018 (as an intern)
 and the fall of 2018 (as a part-time research collaborator) with the
 Probability team at Facebook.&lt;/p&gt;
+
+&lt;p&gt;Before coming to MIT, I completed my M.S. in Computer Science at NYU,
+where I worked with Dennis Shasha on implementing AQuery, an optimizing
+compiler for order-related database queries. Before that, I worked for Morgan Stanley as part of the housing and mortgage research group. I graduated with a B.A. in Economics
+from University of Pennsylvania in 2011. I&amp;rsquo;m originally from San José, Costa Rica.&lt;/p&gt;
 </description>
     </item>
     
