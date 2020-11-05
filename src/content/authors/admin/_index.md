@@ -90,6 +90,7 @@ I have also researched and published work on:
 * [studying how developers use automatically generated bug patches](publication/vlhcc-2019/vlhcc2019)
 * [using deep learning to improve code search using natural language](publication/fse-2019/fse2019)
 * [applying active learning to infer and regenerate software](publication/onward-2019/onward2019)
+* developing a risk prediction model for pancreatic cancer using electronic health records (to appear in European Journal of Cancer)
 
 
 I spent the summer of 2020 as an intern with the SysML team at Facebook
