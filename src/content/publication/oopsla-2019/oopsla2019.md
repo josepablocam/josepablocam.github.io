@@ -13,8 +13,8 @@ title = "AL: Autogenerating Supervised Learning Programs"
 #url_code = "#"
 #url_dataset = "#"
 url_pdf = "pdf/oopsla-2019.pdf"
-#url_project = "#"
-#url_slides = "#"
+url_project = "https://github.com/josepablocam/al-public"
+url_slides = "pdf/oopsla-2019-slides.pdf"
 #url_video = "#"
 
 #[[url_custom]]
