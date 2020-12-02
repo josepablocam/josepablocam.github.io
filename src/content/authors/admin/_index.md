@@ -52,7 +52,7 @@ social:
    link: https://github.com/josepablocam
  - icon: google-scholar
    icon_pack: ai
-   link: https://scholar.google.com/citations?user=yaQYc_wAAAAJ&hl=en 
+   link: https://scholar.google.com/citations?user=yaQYc_wAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -99,7 +99,7 @@ I have also researched and published work on:
 * [studying how developers use automatically generated bug patches](publication/vlhcc-2019/vlhcc2019)
 * [using deep learning to improve code search using natural language](publication/fse-2019/fse2019)
 * [applying active learning to infer and regenerate software](publication/onward-2019/onward2019)
-* developing a risk prediction model for pancreatic cancer using electronic health records (to appear in European Journal of Cancer)
+* [developing a risk prediction model for pancreatic cancer using electronic health records](publication/ejc-pdac/pdac)
 
 
 I spent the summer of 2020 as an intern with the SysML team at Facebook
@@ -111,5 +111,3 @@ Before coming to MIT, I completed my M.S. in Computer Science at NYU,
 where I worked with Dennis Shasha on implementing AQuery, an optimizing
 compiler for order-related database queries. Before that, I worked for Morgan Stanley as part of the housing and mortgage research group. I graduated with a B.A. in Economics
 from University of Pennsylvania in 2011. I'm originally from San José, Costa Rica.
-
-
