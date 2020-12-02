@@ -5,7 +5,7 @@
     <link>https://josecambronero.com/authors/</link>
       <atom:link href="https://josecambronero.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://josecambronero.com/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,17 +13,33 @@
     </image>
     
     <item>
+      <title>**José Cambronero (equal contrib)**</title>
+      <link>https://josecambronero.com/authors/jose-cambronero-equal-contrib/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://josecambronero.com/authors/jose-cambronero-equal-contrib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>**José Cambronero**</title>
       <link>https://josecambronero.com/authors/jose-cambronero/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://josecambronero.com/authors/jose-cambronero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fatjon Zogaj (equal contrib.)</title>
+      <link>https://josecambronero.com/authors/fatjon-zogaj-equal-contrib./</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://josecambronero.com/authors/fatjon-zogaj-equal-contrib./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jürgen Cito</title>
       <link>https://josecambronero.com/authors/jurgen-cito/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://josecambronero.com/authors/jurgen-cito/</guid>
       <description></description>
     </item>
@@ -31,8 +47,16 @@
     <item>
       <title>Martin Rinard</title>
       <link>https://josecambronero.com/authors/martin-rinard/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://josecambronero.com/authors/martin-rinard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Micah J. Smith</title>
+      <link>https://josecambronero.com/authors/micah-j.-smith/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://josecambronero.com/authors/micah-j.-smith/</guid>
       <description></description>
     </item>
     
@@ -190,6 +214,8 @@ Electronic Health Records for early prediction of pancreatic cancer
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;publication/oopsla-2019/oopsla2019&#34; target=&#34;_blank&#34;&gt;using dynamic program analysis for automated machine learning (AutoML)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;publication/fse-2020/fse2020&#34; target=&#34;_blank&#34;&gt;generating AutoML search spaces using API docs and code corpora&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;publication/janus/janus&#34; target=&#34;_blank&#34;&gt;framing AutoML as a program repair task and learning repair rules from an existing search procedure&amp;rsquo;s candidates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;publication/downsampling/downsampling&#34; target=&#34;_blank&#34;&gt;evaluating the empirical impact of downsampling as a way to scale genetic-programming-based AutoML to large datasets&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;I have also researched and published work on:&lt;/p&gt;

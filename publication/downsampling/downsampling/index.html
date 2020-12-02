@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="PhD student">
+  <meta name="description" content="Automated machine learning (AutoML) promises to democratize machine learning by automatically generating machine learning pipelines with little-to-no user intervention. Typically, a search procedure is used to repeatedly generate and validate candidate pipelines, maximizing a predictive performance metric, subject to a limited execution time budget. While this approach to generating candidates works well for small datasets, the same procedure does not directly scale to larger datasets with 100,000s of observations, often producing fewer candidate pipelines and yielding lower performance. We empirically investigate downsampling as a way to mitigate this challenge. Our evaluation on 16 datasets (4 smaller datasets with less than 10,000 observations and 12 large datasets with 50,000 to over 1,000,000 observations) shows that for a widely-used AutoML search procedure downsampling increases the number of pipelines evaluated and improves the predictive performance of the final pipeline. More specifically, we find that for most of the larger datasets (11 out of 12), the sampling ratio yielding the best predictive performance is between 0.05 and 0.2. We also see that aggressive downsampling ratios can lead to up to 20x more pipelines being explored by the search procedure as compared to performing search with the full dataset. Interestingly, in a control experiment where we performed search for 60 minutes (instead of 5 minutes) on the full dataset, we find that resulting predictive performance still underperforms the pipeline resulting from a 5 minute search on the downsampled dataset. The release of an extensive reproducibility package, along with our empirical insights, open up the possibility to generate and investigate additional theoretical hypotheses in future analyses.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://josecambronero.com/publication_types/">
+  <link rel="alternate" hreflang="en-us" href="https://josecambronero.com/publication/downsampling/downsampling/">
 
   
 
@@ -91,14 +91,12 @@
   
 
   
-  <link rel="alternate" href="/publication_types/index.xml" type="application/rss+xml" title="José Cambronero">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://josecambronero.com/publication_types/">
+  <link rel="canonical" href="https://josecambronero.com/publication/downsampling/downsampling/">
 
   
   
@@ -114,12 +112,15 @@
   <meta property="twitter:creator" content="@josepablocam">
   
   <meta property="og:site_name" content="José Cambronero">
-  <meta property="og:url" content="https://josecambronero.com/publication_types/">
-  <meta property="og:title" content="Publication_types | José Cambronero">
-  <meta property="og:description" content="PhD student"><meta property="og:image" content="https://josecambronero.com/img/icon-192.png">
+  <meta property="og:url" content="https://josecambronero.com/publication/downsampling/downsampling/">
+  <meta property="og:title" content="Doing More with Less: Characterizing Dataset Downsampling for AutoML | José Cambronero">
+  <meta property="og:description" content="Automated machine learning (AutoML) promises to democratize machine learning by automatically generating machine learning pipelines with little-to-no user intervention. Typically, a search procedure is used to repeatedly generate and validate candidate pipelines, maximizing a predictive performance metric, subject to a limited execution time budget. While this approach to generating candidates works well for small datasets, the same procedure does not directly scale to larger datasets with 100,000s of observations, often producing fewer candidate pipelines and yielding lower performance. We empirically investigate downsampling as a way to mitigate this challenge. Our evaluation on 16 datasets (4 smaller datasets with less than 10,000 observations and 12 large datasets with 50,000 to over 1,000,000 observations) shows that for a widely-used AutoML search procedure downsampling increases the number of pipelines evaluated and improves the predictive performance of the final pipeline. More specifically, we find that for most of the larger datasets (11 out of 12), the sampling ratio yielding the best predictive performance is between 0.05 and 0.2. We also see that aggressive downsampling ratios can lead to up to 20x more pipelines being explored by the search procedure as compared to performing search with the full dataset. Interestingly, in a control experiment where we performed search for 60 minutes (instead of 5 minutes) on the full dataset, we find that resulting predictive performance still underperforms the pipeline resulting from a 5 minute search on the downsampled dataset. The release of an extensive reproducibility package, along with our empirical insights, open up the possibility to generate and investigate additional theoretical hypotheses in future analyses."><meta property="og:image" content="https://josecambronero.com/img/icon-192.png">
   <meta property="twitter:image" content="https://josecambronero.com/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-12-01T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2020-12-01T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2020-12-01T00:00:00&#43;00:00">
   
 
   
@@ -131,7 +132,7 @@
 
 
 
-  <title>Publication_types | José Cambronero</title>
+  <title>Doing More with Less: Characterizing Dataset Downsampling for AutoML | José Cambronero</title>
 
 </head>
 
@@ -332,56 +333,251 @@
 </nav>
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
+  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
 
+
+
+
+
+
+
+
+
+
+
+
+  
+
   
   
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Doing More with Less: Characterizing Dataset Downsampling for AutoML</h1>
+
+  
+
   
     
-  
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Publication_types</h1>
+
+
+
+<meta content="2020-12-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2020-12-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
 
   
-
   
-</div>
-
-
-
-<div class="universal-wrapper">
-  
-
   
   
   <div>
-    <h2><a href="/publication_types/1/">1</a></h2>
-    <div class="article-style">
-      
-    </div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/fatjon-zogaj-equal-contrib./">Fatjon Zogaj (equal contrib.)</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jose-cambronero-equal-contrib/"><strong>José Cambronero (equal contrib)</strong></a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/martin-rinard/">Martin Rinard</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jurgen-cito/">Jürgen Cito</a></span>
+
   </div>
   
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>December 2020</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+  </ul>
+</div>
+
 
   
 
 </div>
 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="/pdf/downsampling-draft.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Automated machine learning (AutoML) promises to democratize machine learning by automatically generating machine learning pipelines with little-to-no user intervention. Typically, a search procedure is used to repeatedly generate and validate candidate pipelines, maximizing a predictive performance metric, subject to a limited execution time budget. While this approach to generating candidates works well for small datasets, the same procedure does not directly scale to larger datasets with 100,000s of observations, often producing fewer candidate pipelines and yielding lower performance. We empirically investigate downsampling as a way to mitigate this challenge. Our evaluation on 16 datasets (4 smaller datasets with less than 10,000 observations and 12 large datasets with 50,000 to over 1,000,000 observations) shows that for a widely-used AutoML search procedure downsampling increases the number of pipelines evaluated and improves the predictive performance of the final pipeline. More specifically, we find that for most of the larger datasets (11 out of 12), the sampling ratio yielding the best predictive performance is between 0.05 and 0.2. We also see that aggressive downsampling ratios can lead to up to 20x more pipelines being explored by the search procedure as compared to performing search with the full dataset. Interestingly, in a control experiment where we performed search for 60 minutes (instead of 5 minutes) on the full dataset, we find that resulting predictive performance still underperforms the pipeline resulting from a 5 minute search on the downsampled dataset. The release of an extensive reproducibility package, along with our empirical insights, open up the possibility to generate and investigate additional theoretical hypotheses in future analyses.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Under submission</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+    
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/fatjon-zogaj-equal-contrib./"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+    
+
+
+  </div>
+</div>
+
+
+
       
 
     
+    
+    
+    <script src="/js/mathjax-config.js"></script>
     
 
     
@@ -403,6 +599,8 @@
       
 
       
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
       
     
 

@@ -89,6 +89,8 @@ The results of my thesis research so far are presented in:
 
 * [using dynamic program analysis for automated machine learning (AutoML)](publication/oopsla-2019/oopsla2019)
 * [generating AutoML search spaces using API docs and code corpora](publication/fse-2020/fse2020)
+* [framing AutoML as a program repair task and learning repair rules from an existing search procedure's candidates](publication/janus/janus)
+* [evaluating the empirical impact of downsampling as a way to scale genetic-programming-based AutoML to large datasets](publication/downsampling/downsampling)
 
 
 I have also researched and published work on:
