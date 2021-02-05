@@ -86,13 +86,16 @@ that exploits information found in code corpora, and applying ML to
 Electronic Health Records for early prediction of pancreatic cancer
 (jointly with physicians at BIDMC).
 
-The results of my thesis research so far are presented in:
+The results of my thesis research are presented in:
 
 * [using dynamic program analysis for automated machine learning (AutoML)](publication/oopsla-2019/oopsla2019)
 * [generating AutoML search spaces using API docs and code corpora](publication/fse-2020/fse2020)
 * [framing AutoML as a program repair task and learning repair rules from an existing search procedure's candidates](publication/janus/janus)
-* [evaluating the empirical impact of downsampling as a way to scale genetic-programming-based AutoML to large datasets](publication/downsampling/downsampling)
 
+Closely relatedly, I have recently worked on:
+
+* [evaluating the empirical impact of downsampling as a way to scale genetic-programming-based AutoML to large datasets](publication/downsampling/downsampling)
+* [mining data wrangling functions from collections of Python programs written to work with the same dataset](publication/wranglesearch/wranglesearch)
 
 I have also researched and published work on:
 

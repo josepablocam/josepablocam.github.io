@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raul Casto Fernandez | José Cambronero</title>
+    <link>https://josecambronero.com/authors/raul-casto-fernandez/</link>
+      <atom:link href="https://josecambronero.com/authors/raul-casto-fernandez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raul Casto Fernandez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://josecambronero.com/img/icon-192.png</url>
+      <title>Raul Casto Fernandez</title>
+      <link>https://josecambronero.com/authors/raul-casto-fernandez/</link>
+    </image>
+    
+    <item>
+      <title>wranglesearch: Mining Data Wrangling Functions from Python Programs</title>
+      <link>https://josecambronero.com/publication/wranglesearch/wranglesearch/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://josecambronero.com/publication/wranglesearch/wranglesearch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
