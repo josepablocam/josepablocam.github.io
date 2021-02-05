@@ -79,6 +79,7 @@ a position, please reach out.
 My research interests are focused on the
 intersection of software engineering and machine learning. I'm particularly
 interested in learning from code corpora and from existing search procedures.
+[Here is my research statement](pdf/jose_cambronero_research_statement.pdf)
 
 Recently, I've spent most of my time on two projects: AutoML
 that exploits information found in code corpora, and applying ML to
