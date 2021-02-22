@@ -90,7 +90,7 @@ The results of my thesis research are presented in:
 
 * [using dynamic program analysis for automated machine learning (AutoML)](publication/oopsla-2019/oopsla2019)
 * [generating AutoML search spaces using API docs and code corpora](publication/fse-2020/fse2020)
-* [framing AutoML as a program repair task and learning repair rules from an existing search procedure's candidates](publication/janus/janus)
+* [mining nearby transformations of machine learning pipelines to improve their performance](publication/janus/janus)
 
 Closely relatedly, I have recently worked on:
 
