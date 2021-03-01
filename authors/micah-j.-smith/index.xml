@@ -5,7 +5,7 @@
     <link>https://josecambronero.com/authors/micah-j.-smith/</link>
       <atom:link href="https://josecambronero.com/authors/micah-j.-smith/index.xml" rel="self" type="application/rss+xml" />
     <description>Micah J. Smith</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://josecambronero.com/img/icon-192.png</url>
       <title>Micah J. Smith</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Learning Repair Rules for Machine Learning Pipelines from AutoML Search Traces</title>
+      <title>Mining Nearby Repairs that Improve Machine Learning Pipeline Performance</title>
       <link>https://josecambronero.com/publication/janus/janus/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://josecambronero.com/publication/janus/janus/</guid>
       <description></description>
     </item>

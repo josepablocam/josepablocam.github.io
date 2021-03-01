@@ -1,15 +1,15 @@
 +++
-abstract = "We frame the task of improving predictive performance of an existing machine learning pipeline by performing a small modification as an analogue to automated program repair. In this setting, the existence of a similar pipeline with better performance, the modification that delivers that improvement, and the task of automatically generating and applying that modification are the analogues of bug, patch, and automated program repair, respectively. We develop a system, Janus, that learns to extract repair rules from a corpus of pipelines, an approach conceptually similar to learning patches from code corpora. Our experiments show Janus can improve pipelines more often than a baseline approach, with comparable improvements when both succeed, and resulting pipelines closer to the original input pipelines."
+abstract = "We frame the task of improving predictive performance of an existing machine learning pipeline by performing a small modification as an analogue to automated program repair. In this setting, the existence of a similar pipeline with better performance, the modification that delivers that improvement, and the task of automatically generating and applying that modification are the analogues of bug, patch, and automated program repair, respectively. We develop a system, Janus, that mines repair rules from a large corpus of pipelines, an approach conceptually similar to learning patches from code corpora. Our experiments show Janus can improve performance in 16%-42% of the test pipelines in our experiments, outperforming baseline approaches in 7 of the 9 datasets in our evaluation."
 
 authors = ["**José Cambronero**", "Jürgen Cito", "Micah J. Smith", "Martin Rinard"]
-date = "2020-12-01"
+date = "2021-03-01"
 image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "Under submission"
 #publication_short = "In *ICMEW*"
 selected = true
-title = "Learning Repair Rules for Machine Learning Pipelines from AutoML Search Traces"
+title = "Mining Nearby Repairs that Improve Machine Learning Pipeline Performance"
 #url_code = "#"
 #url_dataset = "#"
 url_pdf = "pdf/janus-draft.pdf"

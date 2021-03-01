@@ -5,7 +5,7 @@
     <link>https://josecambronero.com/authors/</link>
       <atom:link href="https://josecambronero.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://josecambronero.com/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,16 +15,32 @@
     <item>
       <title>**José Cambronero**</title>
       <link>https://josecambronero.com/authors/jose-cambronero/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://josecambronero.com/authors/jose-cambronero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jürgen Cito</title>
+      <link>https://josecambronero.com/authors/jurgen-cito/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://josecambronero.com/authors/jurgen-cito/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Martin Rinard</title>
       <link>https://josecambronero.com/authors/martin-rinard/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://josecambronero.com/authors/martin-rinard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Micah J. Smith</title>
+      <link>https://josecambronero.com/authors/micah-j.-smith/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://josecambronero.com/authors/micah-j.-smith/</guid>
       <description></description>
     </item>
     
@@ -101,14 +117,6 @@
     </item>
     
     <item>
-      <title>Jürgen Cito</title>
-      <link>https://josecambronero.com/authors/jurgen-cito/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://josecambronero.com/authors/jurgen-cito/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Karla Pollick</title>
       <link>https://josecambronero.com/authors/karla-pollick/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
@@ -129,14 +137,6 @@
       <link>https://josecambronero.com/authors/mary-a.-stevenson/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://josecambronero.com/authors/mary-a.-stevenson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Micah J. Smith</title>
-      <link>https://josecambronero.com/authors/micah-j.-smith/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://josecambronero.com/authors/micah-j.-smith/</guid>
       <description></description>
     </item>
     
