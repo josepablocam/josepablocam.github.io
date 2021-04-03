@@ -70,11 +70,11 @@ email: ""
 ---
 
 I'm a fifth year Computer Science Ph.D.
-student at MIT, advised by Martin Rinard. I am actively
-looking for full-time research positions in industry with a start date
-some time in summer 2021. I'm particularly interested in (full or partial)
-remote work possibilities. If you think I may be a good fit for
-a position, please reach out.
+student at MIT, advised by Martin Rinard.
+After I wrap up my dissertation,
+I will be joining a mixed engineering/research
+team focused on program synthesis as
+a full-time researcher in summer 2021.
 
 My research interests are focused on the
 intersection of software engineering and machine learning. I'm particularly
