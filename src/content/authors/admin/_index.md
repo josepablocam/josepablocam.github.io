@@ -69,24 +69,12 @@ email: ""
 #- Visitors
 ---
 
-I'm a fifth year Computer Science Ph.D.
-student at MIT, advised by Martin Rinard.
-After I wrap up my dissertation,
-I will be joining a mixed engineering/research
-team focused on program synthesis as
-a full-time researcher in summer 2021.
+I recently defended my PhD at MIT, under the supervision
+of Martin Rinard. I'm starting a full-time position
+on Microsoft's PROSE team this July 2021.
 
-My research interests are focused on the
-intersection of software engineering and machine learning. I'm particularly
-interested in learning from code corpora and from existing search procedures.
-[Here is my research statement](pdf/jose_cambronero_research_statement.pdf)
-
-Recently, I've spent most of my time on two projects: AutoML
-that exploits information found in code corpora, and applying ML to
-Electronic Health Records for early prediction of pancreatic cancer
-(jointly with physicians at BIDMC).
-
-The results of my thesis research are presented in:
+You can find a copy of my thesis [here](pdf/JCambronero-PhD-EECS-June2021.pdf).
+The results of my thesis research also originally appeared in:
 
 * [using dynamic program analysis for automated machine learning (AutoML)](publication/oopsla-2019/oopsla2019)
 * [generating AutoML search spaces using API docs and code corpora](publication/fse-2020/fse2020)
