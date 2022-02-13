@@ -6,14 +6,14 @@ date = "2020-12-01"
 image_preview = ""
 math = true
 publication_types = ["1"]
-publication = "Under submission"
+publication = "VLDB 2021"
 #publication_short = "In *ICMEW*"
 selected = true
 title = "Doing More with Less: Characterizing Dataset Downsampling for AutoML"
 #url_code = "#"
 #url_dataset = "#"
-url_pdf = "pdf/downsampling-draft.pdf"
-url_project = "https://github.com/ipa-lab/autoML-sampling-public" 
+url_pdf = "pdf/vldb-2021-zogaj.pdf"
+url_project = "https://github.com/ipa-lab/autoML-sampling-public"
 #url_slides = "pdf/fse-2020-slides.pdf"
 #url_video = "https://www.youtube.com/watch?v=5KLwOjcxi20&feature=youtu.be"
 

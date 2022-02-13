@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: MIT
+- name: Microsoft
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,9 +26,9 @@ interests:
 
 education:
   courses:
-  - course: PhD student
+  - course: PhD in Computer Science
     institution: MIT
-    year: 2016-TBD
+    year: 2016-2021
   - course: MS in Computer Science
     institution: Courant Institute of Mathematical Sciences (NYU)
     year: 2016
@@ -69,9 +69,12 @@ email: ""
 #- Visitors
 ---
 
-I recently defended my PhD at MIT, under the supervision
-of Martin Rinard. I'm starting a full-time position
-on Microsoft's PROSE team this July 2021.
+I'm a researcher on the [PROSE team at Microsoft](https://www.microsoft.com/en-us/research/group/prose/),
+where we develop state-of-the-art program synthesis technologies to make software development
+more accessible, productive, and fun.
+
+Before joining Microsoft, I received my PhD from MIT, under the supervision
+of Martin Rinard.
 
 You can find a copy of my thesis [here](pdf/JCambronero-PhD-EECS-June2021.pdf).
 The results of my thesis research also originally appeared in:
@@ -94,12 +97,7 @@ I have also researched and published work on:
 * [developing a risk prediction model for pancreatic cancer using electronic health records](publication/ejc-pdac/pdac)
 
 
-I spent the summer of 2020 as an intern with the SysML team at Facebook
-AI Research. Prior to that, I spent the summer of 2018 (as an intern)
-and the fall of 2018 (as a part-time research collaborator) with the
-Probability team at Facebook.
-
-Before coming to MIT, I completed my M.S. in Computer Science at NYU,
-where I worked with Dennis Shasha on implementing AQuery, an optimizing
-compiler for order-related database queries. Before that, I worked for Morgan Stanley as part of the housing and mortgage research group. I graduated with a B.A. in Economics
-from University of Pennsylvania in 2011. I'm originally from San José, Costa Rica.
+Before my PhD, I obtained an M.S. in Computer Science (NYU) and a B.A.
+in Economics (University of Pennsylvania). I have had the opportunity of working (both as an intern and full-time employee)
+across technology and finance companies, in a variety of roles.
+I'm originally from San José, Costa Rica.
