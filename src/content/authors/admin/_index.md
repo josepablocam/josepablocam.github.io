@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher
+role: Senior Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -69,7 +69,7 @@ email: ""
 #- Visitors
 ---
 
-I'm a researcher on the [PROSE team at Microsoft](https://www.microsoft.com/en-us/research/group/prose/),
+I'm a senior researcher on the [PROSE team at Microsoft](https://www.microsoft.com/en-us/research/group/prose/),
 where we develop state-of-the-art program synthesis technologies to make software development
 more accessible, productive, and fun.
 
