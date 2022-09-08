@@ -22,7 +22,6 @@ bio: My research interests include programming languages/software engineering, d
 
 interests:
 - Programming languages/software engineering + machine learning
-- Healthcare + machine learning
 
 education:
   courses:
@@ -71,25 +70,30 @@ email: ""
 
 I'm a senior researcher on the [PROSE team at Microsoft](https://www.microsoft.com/en-us/research/group/prose/),
 where we develop state-of-the-art program synthesis technologies to make software development
-more accessible, productive, and fun.
+more accessible, productive, and fun. My current line of work focuses on
+using neurosymbolic techniques for applications ranging from
+program repair to programming by example.
+
+Some of our recent work at PROSE includes:
+
+* [Neurosymbolic low-code formula repair](https://arxiv.org/abs/2207.11765) to appear in OOPSLA 2022
+* [Neurosymbolic conditional formatting by example](https://arxiv.org/abs/2208.06032)
+* [Large language model-based multi-lingual program repair](https://arxiv.org/abs/2208.11640)
+
+If you're a PhD student in a related area of research (e.g. SE, PL, ML)
+and are interested in doing an internship with me, please reach out
+via [email](mailto:jcambronero@microsoft.com).
 
 Before joining Microsoft, I received my PhD from MIT, under the supervision
-of Martin Rinard.
+of Martin Rinard. You can find a copy of my thesis [here](pdf/JCambronero-PhD-EECS-June2021.pdf).
 
-You can find a copy of my thesis [here](pdf/JCambronero-PhD-EECS-June2021.pdf).
-The results of my thesis research also originally appeared in:
+I have also researched and published work on:
 
 * [using dynamic program analysis for automated machine learning (AutoML)](publication/oopsla-2019/oopsla2019)
 * [generating AutoML search spaces using API docs and code corpora](publication/fse-2020/fse2020)
 * [mining nearby transformations of machine learning pipelines to improve their performance](publication/janus/janus)
-
-Closely relatedly, I have recently worked on:
-
 * [evaluating the empirical impact of downsampling as a way to scale genetic-programming-based AutoML to large datasets](publication/downsampling/downsampling)
 * [mining data wrangling functions from collections of Python programs written to work with the same dataset](publication/wranglesearch/wranglesearch)
-
-I have also researched and published work on:
-
 * [optimizing database queries to perform dynamic imputation](publication/vldb-2017/vldb2017)
 * [studying how developers use automatically generated bug patches](publication/vlhcc-2019/vlhcc2019)
 * [using deep learning to improve code search using natural language](publication/fse-2019/fse2019)
