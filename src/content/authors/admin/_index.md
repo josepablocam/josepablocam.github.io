@@ -72,19 +72,21 @@ I'm a senior researcher on the [PROSE team at Microsoft](https://www.microsoft.c
 where we develop state-of-the-art program synthesis technologies to make software development
 more accessible, productive, and fun. My current line of work focuses on
 using neurosymbolic techniques for applications ranging from
-program repair to programming by example.
+program repair to programming by example, with a particular emphasis on the former.
 
 Some of our recent work at PROSE includes:
 
 * [Neurosymbolic low-code formula repair](https://arxiv.org/abs/2207.11765) to appear in OOPSLA 2022
-* [Neurosymbolic conditional formatting by example](https://arxiv.org/abs/2208.06032)
+* [Learning Table Formatting Rules By Example](https://arxiv.org/abs/2208.06032)
 * [Large language model-based multi-lingual program repair](https://arxiv.org/abs/2208.11640) to appear in AAAI 2023
 * FlashFill++: Scaling Programming by Example by Cutting to the Chase (pdf to come) to appear in POPL 2023
 * [Repairing Bugs in Python Assignments Using Large Language Models](https://arxiv.org/abs/2209.14876)
 
 If you're a PhD student in a related area of research (e.g. SE, PL, ML)
 and are interested in doing an internship with me, please reach out
-via [email](mailto:jcambronero@microsoft.com).
+via [email](mailto:jcambronero@microsoft.com)(NOTE: I'm unlikely to be able
+to take summer interns for Summer 2023, as of Dec 2022. Please reach out again
+in the Spring, as circumstances may change).
 
 Before joining Microsoft, I received my PhD from MIT, under the supervision
 of Martin Rinard. You can find a copy of my thesis [here](pdf/JCambronero-PhD-EECS-June2021.pdf).

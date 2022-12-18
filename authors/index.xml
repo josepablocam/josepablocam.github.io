@@ -309,13 +309,13 @@
 where we develop state-of-the-art program synthesis technologies to make software development
 more accessible, productive, and fun. My current line of work focuses on
 using neurosymbolic techniques for applications ranging from
-program repair to programming by example.&lt;/p&gt;
+program repair to programming by example, with a particular emphasis on the former.&lt;/p&gt;
 
 &lt;p&gt;Some of our recent work at PROSE includes:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2207.11765&#34; target=&#34;_blank&#34;&gt;Neurosymbolic low-code formula repair&lt;/a&gt; to appear in OOPSLA 2022&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2208.06032&#34; target=&#34;_blank&#34;&gt;Neurosymbolic conditional formatting by example&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2208.06032&#34; target=&#34;_blank&#34;&gt;Learning Table Formatting Rules By Example&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2208.11640&#34; target=&#34;_blank&#34;&gt;Large language model-based multi-lingual program repair&lt;/a&gt; to appear in AAAI 2023&lt;/li&gt;
 &lt;li&gt;FlashFill++: Scaling Programming by Example by Cutting to the Chase (pdf to come) to appear in POPL 2023&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2209.14876&#34; target=&#34;_blank&#34;&gt;Repairing Bugs in Python Assignments Using Large Language Models&lt;/a&gt;&lt;/li&gt;
@@ -323,7 +323,9 @@ program repair to programming by example.&lt;/p&gt;
 
 &lt;p&gt;If you&amp;rsquo;re a PhD student in a related area of research (e.g. SE, PL, ML)
 and are interested in doing an internship with me, please reach out
-via &lt;a href=&#34;mailto:jcambronero@microsoft.com&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;.&lt;/p&gt;
+via &lt;a href=&#34;mailto:jcambronero@microsoft.com&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;(NOTE: I&amp;rsquo;m unlikely to be able
+to take summer interns for Summer 2023, as of Dec 2022. Please reach out again
+in the Spring, as circumstances may change).&lt;/p&gt;
 
 &lt;p&gt;Before joining Microsoft, I received my PhD from MIT, under the supervision
 of Martin Rinard. You can find a copy of my thesis &lt;a href=&#34;pdf/JCambronero-PhD-EECS-June2021.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
