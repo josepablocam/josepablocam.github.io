@@ -79,7 +79,7 @@ Some of our recent work at PROSE includes:
 * [Neurosymbolic low-code formula repair](https://arxiv.org/abs/2207.11765) to appear in OOPSLA 2022
 * [Learning Table Formatting Rules By Example](https://arxiv.org/abs/2208.06032)
 * [Large language model-based multi-lingual program repair](https://arxiv.org/abs/2208.11640) to appear in AAAI 2023
-* FlashFill++: Scaling Programming by Example by Cutting to the Chase (pdf to come) to appear in POPL 2023
+* [FlashFill++: Scaling Programming by Example by Cutting to the Chase](pdf/popl23-flashfillpp.pdf) to appear in POPL 2023
 * [Repairing Bugs in Python Assignments Using Large Language Models](https://arxiv.org/abs/2209.14876)
 
 If you're a PhD student in a related area of research (e.g. SE, PL, ML)
