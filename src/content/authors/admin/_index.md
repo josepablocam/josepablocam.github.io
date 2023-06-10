@@ -76,17 +76,17 @@ program repair to programming by example, with a particular emphasis on the form
 
 Some of our recent work at PROSE includes:
 
-* [Neurosymbolic low-code formula repair](https://arxiv.org/abs/2207.11765) to appear in OOPSLA 2022
-* [Learning Table Formatting Rules By Example](https://arxiv.org/abs/2208.06032)
-* [Large language model-based multi-lingual program repair](https://arxiv.org/abs/2208.11640) to appear in AAAI 2023
-* [FlashFill++: Scaling Programming by Example by Cutting to the Chase](pdf/popl23-flashfillpp.pdf) to appear in POPL 2023
+* [Neurosymbolic low-code formula repair](https://arxiv.org/abs/2207.11765) (OOPSLA 2022)
+* [Learning Table Formatting Rules By Example](https://arxiv.org/abs/2208.06032) (to appear VLDB 2023)
+* [Large language model-based multi-lingual program repair](https://arxiv.org/abs/2208.11640) (AAAI 2023)
+* [FlashFill++: Scaling Programming by Example by Cutting to the Chase](pdf/popl23-flashfillpp.pdf) (POPL 2023)
+* [Generating High-Precision Feedback for Programming Syntax Errors using Large Language Models](https://arxiv.org/abs/2302.04662) (to appear EDM 2023)
 * [Repairing Bugs in Python Assignments Using Large Language Models](https://arxiv.org/abs/2209.14876)
 
 If you're a PhD student in a related area of research (e.g. SE, PL, ML)
 and are interested in doing an internship with me, please reach out
-via [email](mailto:jcambronero@microsoft.com)(NOTE: I'm unlikely to be able
-to take summer interns for Summer 2023, as of Dec 2022. Please reach out again
-in the Spring, as circumstances may change).
+via [email](mailto:jcambronero@microsoft.com) with your CV and quick blurb on 
+your interests.
 
 Before joining Microsoft, I received my PhD from MIT, under the supervision
 of Martin Rinard. You can find a copy of my thesis [here](pdf/JCambronero-PhD-EECS-June2021.pdf).
