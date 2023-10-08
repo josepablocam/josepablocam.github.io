@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>José Cambronero</title>
+    <link>https://josecambronero.com/</link>
+      <atom:link href="https://josecambronero.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>José Cambronero</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://josecambronero.com/img/icon-192.png</url>
+      <title>José Cambronero</title>
+      <link>https://josecambronero.com/</link>
+    </image>
+    
+    <item>
+      <title>VLDB: Query Optimization for Dynamic Imputation</title>
+      <link>https://josecambronero.com/talk/vldb-2017/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://josecambronero.com/talk/vldb-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kdb&#43; User Meetup September 2016</title>
+      <link>https://josecambronero.com/talk/kx-meetup-2016/</link>
+      <pubDate>Tue, 20 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://josecambronero.com/talk/kx-meetup-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
