@@ -66,6 +66,20 @@ email: ""
 #user_groups:
 #- Researchers
 #- Visitors
+
+
+
+# I have also researched and published work on:
+# * [using dynamic program analysis for automated machine learning (AutoML)](publication/oopsla-2019/oopsla2019)
+# * [generating AutoML search spaces using API docs and code corpora](publication/fse-2020/fse2020)
+# * [mining nearby transformations of machine learning pipelines to improve their performance](publication/janus/janus)
+# * [evaluating the empirical impact of downsampling as a way to scale genetic-programming-based AutoML to large datasets](publication/downsampling/downsampling)
+# * [mining data wrangling functions from collections of Python programs written to work with the same dataset](publication/wranglesearch/wranglesearch)
+# * [optimizing database queries to perform dynamic imputation](publication/vldb-2017/vldb2017)
+# * [studying how developers use automatically generated bug patches](publication/vlhcc-2019/vlhcc2019)
+# * [using deep learning to improve code search using natural language](publication/fse-2019/fse2019)
+# * [applying active learning to infer and regenerate software](publication/onward-2019/onward2019)
+# * [developing a risk prediction model for pancreatic cancer using electronic health records](publication/ejc-pdac/pdac)
 ---
 
 I'm a senior researcher on the [PROSE team at Microsoft](https://www.microsoft.com/en-us/research/group/prose/),
@@ -76,12 +90,17 @@ program repair to programming by example, with a particular emphasis on the form
 
 Some of our recent work at PROSE includes:
 
-* [Neurosymbolic low-code formula repair](https://arxiv.org/abs/2207.11765) (OOPSLA 2022)
-* [Learning Table Formatting Rules By Example](https://arxiv.org/abs/2208.06032) (to appear VLDB 2023)
-* [Large language model-based multi-lingual program repair](https://arxiv.org/abs/2208.11640) (AAAI 2023)
+* [EmFORE: Online Learning of Email Folder Classification Rules](xxx) (to appear CIKM 2023)
+* [Learning Table Formatting Rules By Example](https://dl.acm.org/doi/abs/10.14778/3603581.3603600) (VLDB 2023)
+* [Large language model-based multi-lingual program repair](https://ojs.aaai.org/index.php/AAAI/article/view/25642) (AAAI 2023)
 * [FlashFill++: Scaling Programming by Example by Cutting to the Chase](pdf/popl23-flashfillpp.pdf) (POPL 2023)
-* [Generating High-Precision Feedback for Programming Syntax Errors using Large Language Models](https://arxiv.org/abs/2302.04662) (to appear EDM 2023)
+* [Generating High-Precision Feedback for Programming Syntax Errors using Large Language Models](https://arxiv.org/abs/2302.04662) (EDM 2023)
+* [Neurosymbolic repair for low-code formula languages](https://dl.acm.org/doi/10.1145/3563327) (OOPSLA 2022)
 * [Repairing Bugs in Python Assignments Using Large Language Models](https://arxiv.org/abs/2209.14876)
+
+For an up to date
+list of my publications,
+please see my [Google Scholar profile](https://scholar.google.com/citations?user=yaQYc_wAAAAJ&hl=en).
 
 If you're a PhD student in a related area of research (e.g. SE, PL, ML)
 and are interested in doing an internship with me, please reach out
@@ -90,19 +109,6 @@ your interests.
 
 Before joining Microsoft, I received my PhD from MIT, under the supervision
 of Martin Rinard. You can find a copy of my thesis [here](pdf/JCambronero-PhD-EECS-June2021.pdf).
-
-I have also researched and published work on:
-
-* [using dynamic program analysis for automated machine learning (AutoML)](publication/oopsla-2019/oopsla2019)
-* [generating AutoML search spaces using API docs and code corpora](publication/fse-2020/fse2020)
-* [mining nearby transformations of machine learning pipelines to improve their performance](publication/janus/janus)
-* [evaluating the empirical impact of downsampling as a way to scale genetic-programming-based AutoML to large datasets](publication/downsampling/downsampling)
-* [mining data wrangling functions from collections of Python programs written to work with the same dataset](publication/wranglesearch/wranglesearch)
-* [optimizing database queries to perform dynamic imputation](publication/vldb-2017/vldb2017)
-* [studying how developers use automatically generated bug patches](publication/vlhcc-2019/vlhcc2019)
-* [using deep learning to improve code search using natural language](publication/fse-2019/fse2019)
-* [applying active learning to infer and regenerate software](publication/onward-2019/onward2019)
-* [developing a risk prediction model for pancreatic cancer using electronic health records](publication/ejc-pdac/pdac)
 
 
 Before my PhD, I obtained an M.S. in Computer Science (NYU) and a B.A.
