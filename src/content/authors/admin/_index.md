@@ -90,7 +90,11 @@ program repair to programming by example, with a particular emphasis on the form
 
 Some of our recent work at PROSE includes:
 
-* [EmFORE: Online Learning of Email Folder Classification Rules](xxx) (to appear CIKM 2023)
+
+* [Tabular Representation, Noisy Operators, and Impacts on Table Structure Understanding Tasks in LLMs](https://openreview.net/forum?id=Ld5UCpiT07)(to appear at Table Representation Learning Workshop at NeurIPS 2023)
+* [CODEFUSION: A Pre-trained Diffusion Model for Code Generation](https://www.microsoft.com/en-us/research/publication/codefusion-a-pre-trained-diffusion-model-for-code-generation/)(to appear EMNLP 2023)
+* [FormaT5: Abstention and Examples for Conditional Table Formatting with Natural Language] (xxx) (to appear VLDB 2024)
+* [EmFORE: Online Learning of Email Folder Classification Rules](https://dl.acm.org/doi/10.1145/3583780.3614863) (CIKM 2023)
 * [Learning Table Formatting Rules By Example](https://dl.acm.org/doi/abs/10.14778/3603581.3603600) (VLDB 2023)
 * [Large language model-based multi-lingual program repair](https://ojs.aaai.org/index.php/AAAI/article/view/25642) (AAAI 2023)
 * [FlashFill++: Scaling Programming by Example by Cutting to the Chase](pdf/popl23-flashfillpp.pdf) (POPL 2023)
