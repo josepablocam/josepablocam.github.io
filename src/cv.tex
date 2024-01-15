@@ -1,0 +1,235 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+\documentclass[11pt,a4paper,sans]{moderncv}
+\moderncvstyle{casual}                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue}
+% character encoding
+\usepackage[utf8]{inputenc}
+
+% adjust the page margins
+\usepackage[scale=0.75]{geometry}
+\usepackage{import}
+
+\usepackage{todonotes}
+
+\usepackage{xpatch}
+\xpatchcmd\cventry{,}{}{}{}
+
+
+\newcommand\Colorhref[3][cyan]{\href{#2}{\small\color{#1}#3}}
+
+\renewcommand*{\namefont}{\fontsize{14}{18}\mdseries\upshape}
+\renewcommand*{\titlefont}{\fontsize{14}{18}\mdseries\upshape}
+
+\makeatletter
+\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+\patchcmd{\thebibliography}
+  {\setlength{\labelwidth}{\hintscolumnwidth}}
+  {\setlength{\labelwidth}{0pt}}
+  {}
+  {}
+\makeatother
+
+
+% personal data
+\name{Jos\'e Pablo}{Cambronero}
+\email{josepablocam@gmail.com}
+\homepage{www.josecambronero.com}
+\phone{215-900-5308}
+\extrainfo{\httplink{www.github.com/josepablocam}}
+
+
+
+\usepackage{etoolbox}
+\patchcmd{\makecvtitle}{{minipage}[b]}{{minipage}[t]}{}{}
+
+\begin{document}
+\makecvtitle
+
+\section{Overview}
+\small{
+(As of \today{}) I'm a senior researcher in the PROSE team
+at Microsoft, where I work on using machine learning to 
+developed state-of-the-art
+program synthesis systems to make writing, fixing, and using
+software easier and more enjoyable. I have also worked
+at Facebook, Cloudera, and (in prior life) Morgan Stanley.
+}
+
+\section{Education}
+
+\vspace{5pt}
+
+\subsection{Academic Qualifications}
+
+\vspace{5pt}
+
+\cventry{2016-2021}{PhD in Computer Science\newline}{Massachusetts Institute of Technology}{Cambridge, MA}{}{}
+
+\cventry{2013-2016}{Masters in Computer Science\newline}{New York University: Courant Institute of Mathematical Sciences}{NY, NY}{}{\textit{GPA: 3.89, MS Research/Thesis Fellowship Award Fall 2015, funding  work on A2Q (an order-aware optimizing query compiler for AQuery)}}
+
+\cventry{2007-2011}{Bachelor of Arts in Economics and Minor in German Studies\newline}{University of Pennsylvania}{Philadelphia, PA}{}{\textit{GPA: 3.93, Phi Beta Kappa, Summa Cum Laude, Dean's List (08, 09, 10)}}
+
+
+\section{Industry Work Experience}
+% \subsection{Full time}
+%
+% \vspace{6pt}
+%
+%
+%
+%
+% % \end{itemize}
+%
+% \subsection{Internships}
+\vspace{6pt}
+
+\cventry{06/2022 -- current}{Senior Researcher}{PROSE Team}{Microsoft}{Remote}{
+}{}
+\cventry{06/2021 -- 06/2022}{Researcher}{PROSE Team}{Microsoft}{Remote}{
+  \begin{itemize}
+    \item Working on program synthesis technologies for a variety of developer, 
+    data scientist, and end-user applications. 
+    A lot of my work focuses on developing and applying large 
+    language models to programming tasks, such as program repair and natural language to code synthesis.
+    As part of my job, I also manage and mentor junior researchers through the PROSE
+    research fellowship program.
+  \end{itemize}
+}{}
+
+\cventry{Summer 2020}{Intern}{Facebook AI Research}{Facebook}{Remote}{
+  \begin{itemize}
+    \item Worked with the SysML team at FAIR on a novel tensor compiler,
+    writing C++ for JIT compilation, benchmarking against Halide/TVM
+  \end{itemize}
+}{}
+
+\cventry{Fall 2018}{Part-Time Research Visitor}{Big Code Team}{Facebook}{Remote}{
+  \begin{itemize}
+    \item Applied deep learning to identify and highlight core code functionality
+    in early ML4Code models.
+  \end{itemize}
+}{}
+
+
+\cventry{Summer 2018}{Intern}{Software Engineering}{Facebook}{Boston}{
+  \begin{itemize}
+    \item Applied deep learning to code search and contributed to some of the
+    earliest ML4Code models in this space.
+  \end{itemize}
+}{}
+
+\cventry{Summer 2015}{Intern}{Data Science}{Cloudera}{San Francisco}{
+  % \begin{itemize}
+  %   \item Contributed multiple statistical tests and classical model implementations to a time series library for Spark (Github: \Colorhref{https://github.com/sryza/spark-timeseries}{Link})
+  %   \item Contributed a distributed implementation of Kolmogorov-Smirnov test to Spark-MLlib (Github: \Colorhref{https://github.com/apache/spark/blob/master/mllib/src/main/scala/org/apache/spark/mllib/stat/test/KolmogorovSmirnovTest.scala}{Link})
+  %   \item Wrote blog posts detailing technical contributions and use of time series library. (Blog: \Colorhref{http://blog.cloudera.com/blog/2015/10/continuous-distribution-goodness-of-fit-in-mllib-kolmogorov-smirnov-testing-in-apache-spark/}{Link})
+  % \end{itemize}
+}{}
+
+\cventry{ 2011 -- 2014}{Full-Time Securitized Credit Research Associate}{Non-Agency Mortgages and US Housing}{Morgan Stanley}{New York}{
+  % \begin{itemize}
+  % \item Developed group analytics infrastructure to drive independence
+  % from tools built/maintained by quant team
+  % \item Learned q programming
+  % language independently, quickly became productive in the language,
+  % frequently helping others with technical q questions and eventually
+  % helping in the review process of the latest \emph{Q for Mortals}
+  % (Borror 2016) book
+  % \item Introduced R development into the group and wrote base libraries for group
+  % \item Led development of various research reports and investing themes
+  % \end{itemize}
+}{}
+
+\cventry{Summer 2010}{Richard B. Fisher Scholar}{Fixed Income Generalist Sales and Fixed Income Credit Strategy}{Morgan Stanley}{New York}{}{}
+
+\cventry{Summer 2009}{Douglas Paul Scholar}{Investment Banking and Alternative Investments}{Morgan Stanley}{New York}{}{}
+
+
+% \section{Relevant Coursework}
+% \vspace{5pt}
+
+% \begin{itemize}
+%     \item MIT: Computer Architecture, Theory of Computation, Database Systems, Machine Learning
+
+%     \item NYU: Compiler Construction, Natural Language Processing, Speech Recognition, Programming Languages, Rigorous Software Development (an introduction to formal methods),
+%     Principles of Software Security
+% \end{itemize}
+
+
+\section{Academic Work Experience}
+\vspace{5pt}
+
+\cventry{Fall and Spring 2021}{Advanced Undergraduate Research Class}{TA}{MIT}{}{}
+\cventry{2015 -- 2016}{Graduate Course in Compiler Construction}{Grader}{NYU}{}{}
+\cventry{Fall 2014}{Graduate Course in Programming Languages}{Teaching Assistant}{NYU}{}{}
+
+\section{Language skills}
+
+\vspace{6pt}
+
+\begin{itemize}
+
+\item \textbf{Programming Languages:} Proficient in: Python, Javascript/Typescript, R, C\#.
+
+\vspace{6pt}
+
+\item \textbf{Natural Languages:} Native fluency in English and Spanish. Working proficiency in German.
+\vspace{6pt}
+
+\end{itemize}
+
+\section{Service}
+\begin{itemize}
+  \item \textbf{Program Committee ICSE 2024}
+  \item \textbf{Program Committee Table Representation Learning Workshop (at NeurIPS) 2023}
+  \item \textbf{Program Committee Table Representation Learning Workshop (at NeurIPS) 2022}
+  \item \textbf{Artifact Evaluation Committee OOPSLA 2020}
+  \item \textbf{Artifact Evaluation Committee CAV 2020}
+  \item \textbf{Artifact Evaluation Committee PPoPP 2018}
+  % \item \textbf{MIT PL Offsite 2017}:
+  % I co-organized, with Ivan Kuraj, the MIT Programming Languages
+  % offsite 2017. The event is meant to foster dialogue and ideas
+  % among members of the MIT PL community and neighboring institutions.
+
+  % \item \textbf{MIT Admitted Students' Visit Weekend Diversity Panel (2017, 2019, 2020)}:
+  % I co-organized a diversity panel aimed
+  % to provide a venue for prospective students to ask any questions
+  % they might have about diversity at MIT and how we are working
+  % towards improving our community.
+
+  % \item \textbf{CSAIL Student Committee (2017 - Spring 2020)}:
+  % I served as Treasurer on the CSAIL Student Committee. I managed the
+  % group's budget and contributed to the organization of social
+  % events, such as a weekly event featuring baked goods and socializing
+  % among graduate students in CSAIL.
+\end{itemize}
+
+\section{Mentoring/Advising}
+\begin{itemize}
+  \item Jennifer McCleary (MIT) MEng Thesis: pancreatic cancer risk modeling (Fall 2019 - January 2020)
+  \item Alex Berg (MIT) Undergraduate research: pancreatic cancer risk modeling (Summer 2020)
+  \item Thomas Xiong (MIT) MEng Thesis: pancreatic cancer risk modeling (Fall 2020 - Spring 2021)
+  \item Lori Zhang (MIT) Undergraduate research: pancreatic cancer risk modeling (Summer 2020 - Spring 2021)
+  \item Harshit Joshi (Microsoft): PROSE Research fellow, automated program repair (Fall 2021 to July 2023 -- joining Stanford PhD program 2023)
+  \item Mukul Singh (Microsoft): PROSE Research fellow, NL-to-Code (Spring 2022 to date)
+  \item Abishai Ebenezer (Microsoft): PROSE Research fellow, automated program repair (Fall 2022 to July 2023)
+  \item Jialu Zhang (Yale/Microsoft): Summer intern in the PROSE team, working on automated program repair (Summer 2022). Part of thesis committee.
+\end{itemize}
+
+
+\nocite{*}
+\bibliographystyle{habbrvyr}
+\bibliography{publications}
+
+
+
+\end{document}
+
+
+%% end of file `template.tex'.
