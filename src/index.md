@@ -18,7 +18,6 @@ You can reach me at:
 - josepablocam@gmail.com
 - \@josepablocam (twitter)
 
-I currently live in Washington DC with my wife.
 
 # Publications
 
