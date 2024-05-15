@@ -1,10 +1,10 @@
 <img src="static/profile.jpeg" alt="profile" width="200"/>
 
-I'm a senior researcher on the [PROSE team at Microsoft](https://www.microsoft.com/en-us/research/group/prose/),
+I'm a researcher working at the intersection of machine learning
+and software engineering. Previously, I was a
+senior researcher on the [PROSE team at Microsoft](https://www.microsoft.com/en-us/research/group/prose/),
 where we develop state-of-the-art program synthesis technologies to make software development
-more accessible, productive, and fun. My current line of work focuses on
-using neurosymbolic techniques for applications ranging from
-program repair to programming by example, with a particular emphasis on the former.
+more accessible, productive, and fun.
 
 I received a PhD in 
 Computer Science (CS) from MIT under the supervision of Martin Rinard, an MS
