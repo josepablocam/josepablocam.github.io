@@ -1,7 +1,11 @@
 <img src="static/profile.jpeg" alt="profile" width="200"/>
 
 I'm a researcher working at the intersection of machine learning
-and software engineering. Previously, I was a
+and software engineering. I currently work as a staff software 
+engineer in Google's DevAI team, where we build machine learning
+systems to make Google developers more productive.
+
+Previously, I was a
 senior researcher on the [PROSE team at Microsoft](https://www.microsoft.com/en-us/research/group/prose/),
 where we develop state-of-the-art program synthesis technologies to make software development
 more accessible, productive, and fun.
