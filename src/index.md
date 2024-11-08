@@ -24,7 +24,7 @@ You can reach me at:
 
 # Random blog posts
 
-* [statement of purpose](blogs/statement_of_purpose.html)
+* [Suggestions for CS PhD statement of purpose](blogs/statement_of_purpose.html)
 
 
 # Publications
