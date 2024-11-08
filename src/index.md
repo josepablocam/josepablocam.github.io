@@ -22,6 +22,10 @@ You can reach me at:
 - josepablocam@gmail.com
 - \@josepablocam (twitter)
 
+# Random blog posts
+
+* [statement of purpose](blogs/statement_of_purpose.html)
+
 
 # Publications
 
